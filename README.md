@@ -2,7 +2,7 @@
 
 These are just some Batch Scripts to install newer Nadeko Versions on Windows with changeable Source.  
  
-FIRST: YOU NEED: [FFMPEG3.3.X](http://ffmpeg.zeranoe.com/builds/) [Youtube-DL](https://rg3.github.io/youtube-dl/download.html)  [Git](https://git-scm.com/downloads) [.net core 1.1.X](https://github.com/dotnet/core/blob/master/release-notes/download-archives/1.0.3-sdk-download.md)  
+FIRST: YOU NEED: [FFMPEG3.3.X](http://ffmpeg.zeranoe.com/builds/) [Youtube-DL](https://rg3.github.io/youtube-dl/download.html)  [Git](https://git-scm.com/downloads) [.net core 1.1.X](https://github.com/dotnet/core/blob/master/release-notes/download-archives/1.1.2-download.md)  
 
 THEN: Make Sure you've added Git, Youtube-DL, .net core and FFMPEG to your PATH  
 
