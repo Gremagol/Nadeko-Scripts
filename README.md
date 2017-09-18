@@ -9,7 +9,7 @@ THEN: Make Sure you've added Git, Youtube-DL, .net core and FFMPEG to your PATH
 AFTER THAT: Download the main file. by clicking it.  
 
 [NadekoBot.bat](https://drive.google.com/uc?authuser=0&id=0B8COQvjVBmChcmhWa0pxYk1yVFE&export=download)  
-oad
+
 Now:  
  
 Just run **NadekoBot.bat**  
