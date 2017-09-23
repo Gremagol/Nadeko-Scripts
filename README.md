@@ -6,9 +6,9 @@ FIRST: YOU NEED: [FFMPEG3.3.X](http://ffmpeg.zeranoe.com/builds/) | [Youtube-DL]
 
 THEN: Make Sure you've added Git, Youtube-DL, .net core and FFMPEG to your PATH  
 
-AFTER THAT: Download the main file. by clicking it.  
+AFTER THAT: Right Click at NadekoBot.bat and safe as a Batchfile (.bat)
 
-[NadekoBot.bat](https://drive.google.com/uc?authuser=0&id=0B8COQvjVBmChcmhWa0pxYk1yVFE&export=download)  
+[NadekoBot.bat](https://raw.githubusercontent.com/Gremagol/Nadeko-Scripts/1.8/NadekoBot.bat)  
 
 Now:  
  
