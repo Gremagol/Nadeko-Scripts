@@ -23,7 +23,7 @@ ECHO Make sure you are running it on Windows 8 or later.
 timeout /t 10
 TITLE Downloading File, please wait...
 SET "FILENAME=%~dp0\Download.bat"
-powershell -Command "Invoke-WebRequest https://raw.githubusercontent.com/Gremagol/Nadeko-Scripts/master/Download.bat -OutFile '%FILENAME%'"
+powershell -Command "Invoke-WebRequest https://raw.githubusercontent.com/Gremagol/Nadeko-Scripts/1.8/Download.bat -OutFile '%FILENAME%'"
 ECHO File downloaded, starting. . .
 timeout /t 5
 CALL Download.bat
