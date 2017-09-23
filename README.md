@@ -8,7 +8,7 @@ THEN: Make Sure you've added Git, Youtube-DL, .net core, FFMPEG and Redis to you
 
 AFTER THAT: Download the main file. by clicking it.  
 
-[NadekoBot.bat](https://drive.google.com/uc?authuser=0&id=0B8COQvjVBmChcmhWa0pxYk1yVFE&export=download)  
+[NadekoBot.bat](https://raw.githubusercontent.com/Gremagol/Nadeko-Scripts/master/NadekoBot.bat)  
 
 Now:  
  
