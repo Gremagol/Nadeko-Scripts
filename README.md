@@ -6,7 +6,7 @@ FIRST: YOU NEED: [FFMPEG3.3.X](http://ffmpeg.zeranoe.com/builds/) | [Youtube-DL]
 
 THEN: Make Sure you've added Git, Youtube-DL, .net core, FFMPEG and Redis to your PATH  
 
-AFTER THAT: Download the main file. by clicking it.  
+AFTER THAT: Right Click at NadekoBot.bat and safe as a Batchfile (.bat)
 
 [NadekoBot.bat](https://raw.githubusercontent.com/Gremagol/Nadeko-Scripts/master/NadekoBot.bat)  
 
@@ -14,7 +14,7 @@ Now:
  
 Just run **NadekoBot.bat**  
  
-Press 1 to download the latest version. Make sure that you made a Backup of everything. (Crendentials, Database file, etc.) 
+Press 1 to download the latest version.
  
 Anyways, after downloading NadekoBot, you will have to set your Crendentials up.  
 
