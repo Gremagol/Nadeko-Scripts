@@ -4,12 +4,12 @@ SET root=%~dp0
 CD /D %root%
 
 CLS
-ECHO 1.Download Nadeko
+ECHO 1.Download and install Nadeko
 ECHO 2.Run Nadeko
-ECHO 3.Run Nadeko with Auto Restart
+ECHO 3.Run Nadeko with Auto Restart (Don't use when using .restart)
 
 ECHO.
-ECHO !MAKE SURE YOU'VE CREATED A BACKUP OF EVERYTHING ALREADY BEFORE UPDATING!
+ECHO Make sure you've installed everything, also added everything to your Path!
 ECHO.
 
 CHOICE /C 123 /M "Enter your choice:"
