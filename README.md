@@ -14,7 +14,7 @@ Now:
  
 Just run **NadekoBot.bat**  
  
-Press 1 to download the latest version. Make sure that you made a Backup of everything. (Crendentials, Database file, etc.) 
+Press 1 to download the latest 1.8 version. 
 
 Anyways, after downloading NadekoBot, you will have to set your Crendentials up.  
 
