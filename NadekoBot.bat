@@ -9,7 +9,7 @@ ECHO 2.Run Nadeko
 ECHO 3.Run Nadeko with Auto Restart
 
 ECHO.
-ECHO !MAKE SURE YOU'VE CREATED A BACKUP OF EVERYTHING ALREADY BEFORE UPDATING!
+ECHO Make sure you've installed everything, also added everything to your Path!
 ECHO.
 
 CHOICE /C 123 /M "Enter your choice:"
