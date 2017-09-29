@@ -15,8 +15,6 @@ Now:
 Just run **NadekoBot.bat**  
  
 Press 1 to download the latest version. Make sure that you made a Backup of everything. (Crendentials, Database file, etc.) 
- 
-These Scripts won't move your files, it'll delete your whole folder, so you'll have to make the backup yourself. 
 
 Anyways, after downloading NadekoBot, you will have to set your Crendentials up.  
 
